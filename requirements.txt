@@ -1,0 +1,4 @@
+python-telegram-bot==13.17
+pandas
+requests
+matplotlib

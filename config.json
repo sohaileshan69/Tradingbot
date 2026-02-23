@@ -1,0 +1,14 @@
+{
+  "TELEGRAM_TOKEN": "8716450069:AAFoB9a__BVkmFiib-FcLHE7VGdWnRRgLq4",
+  "OWNER_USERNAME": "@Magicianx",
+  "OWNER_USER_ID": 7365782903,
+  "CHANNEL_ID": "-1003326748857",
+  "PAIRS": ["EURUSD","GBPUSD","USDJPY"],
+  "TIMEFRAMES":["1m","5m"],
+  "RSI_OVERSOLD":30,
+  "RSI_OVERBOUGHT":70,
+  "SCORE_THRESHOLD":70,
+  "LOOKAHEAD_MINUTES":3,
+  "allowed_users":{"123456789":{"daily_limit":5,"used_today":0,"expiry_date":"2026-03-01"}},
+  "subscriptions":{"-1003326748857":{"expiry_date":"2099-12-31","active":true},"@user_group1":{"expiry_date":"2026-03-01","active":true}}
+}
